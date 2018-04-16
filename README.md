@@ -7,9 +7,9 @@ MEME Generator App using EaselJS, CreateJs and Canvas
 
 - Install the WAMP Server.
 - Clone the branch and create a folder *meme* 
-...
+```
 git clone git@github.com:koushik-elite/MEME-generator.git meme
-...
+```
 - Drop the folder inside WAMP www folder
 - Restart the server.
 - Hit the URL on the browser "http://localhost/meme/simplememe.php"
