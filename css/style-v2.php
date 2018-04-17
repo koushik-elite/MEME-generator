@@ -95,7 +95,6 @@
 		background-color: #000000;
 		width: 100%;
 		display: block;
-		background: url("images/rsz_thor.jpg?st") no-repeat scroll right center transparent;
 		height: auto;
 	}
 	body.sharepage .inner-container {

@@ -34,11 +34,11 @@
 
 		<title>The God Of Thunder, MEME Maker</title>
 		
-		<link rel="shortcut icon" href="http://staging.weate.ch.stage1.535e.blackmesh.com/wbr/html5/meme/images/hammer-logo.png" type="image/vnd.microsoft.icon" />
+		<link rel="shortcut icon" href="/images/hammer-logo.png" type="image/vnd.microsoft.icon" />
 		
 		<meta property="og:site_name" content="The God Of Thunder, MEME Maker" />
 		
-		<link rel="canonical" href="http://staging.weate.ch.stage1.535e.blackmesh.com/wbr/html5/meme/finalAwd1.php" />
+		<link rel="canonical" href="/finalAwd1.php" />
 		
 		<meta name="description" content="Official site" />
 
@@ -328,8 +328,8 @@
 					var obj = {
 						app_id : "373559122839593",
 						method : "feed",
-						link : "http://staging.weate.ch.stage1.535e.blackmesh.com/wbr/html5/meme/share.php?guid="+gid,
-						picture : "http://staging.weate.ch.stage1.535e.blackmesh.com/wbr/html5/meme/output/"+gid+"-facebookshare.jpg",
+						link : "/share.php?guid="+gid,
+						picture : "/output/"+gid+"-facebookshare.jpg",
 						name : "The God Of Thunder, MEME Maker",
 						description : "The God Of Thunder, MEME Maker",
 						display : "popup"

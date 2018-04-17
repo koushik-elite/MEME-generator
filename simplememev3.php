@@ -10,7 +10,7 @@
 
 		<title>The God Of Thunder, MEME Maker</title>
 		
-		<link rel="shortcut icon" href="http://staging.weate.ch.stage1.535e.blackmesh.com/wbr/html5/meme/images/hammer-logo.png" type="image/vnd.microsoft.icon" />
+		<link rel="shortcut icon" href="/images/hammer-logo.png" type="image/vnd.microsoft.icon" />
 		
 		<meta name="description" content="Official site" />
 

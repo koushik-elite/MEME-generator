@@ -23,7 +23,7 @@
 		
 		<link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
 
-		<link rel="shortcut icon" href="http://staging.weate.ch.stage1.535e.blackmesh.com/wbr/html5/meme/images/hammer-logo.png" type="image/vnd.microsoft.icon" />
+		<link rel="shortcut icon" href="/images/hammer-logo.png" type="image/vnd.microsoft.icon" />
 		<link rel="apple-touch-icon-precomposed" href="/images/AL_favicon.png">
 
 		<!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. -->
@@ -31,9 +31,9 @@
 		<meta property="og:title" content="The God Of Thunder, MEME Maker" />
 		<meta property="og:site_name" content="http://darkknightrises.com" />
 		<meta property="og:type" content="website" />
-		<meta property="og:url" content="http://staging.weate.ch.stage1.535e.blackmesh.com/wbr/html5/meme/share.php?guid=<?php echo($_GET['guid']) ?>&test" />
+		<meta property="og:url" content="/share.php?guid=<?php echo($_GET['guid']) ?>&test" />
 		<meta property="og:description" content="The God Of Thunder, MEME Maker" />
-		<meta property="og:image" content="http://staging.weate.ch.stage1.535e.blackmesh.com/wbr/html5/meme/output/<?php echo($_GET['guid']) ?>-facebookshare.jpg" />
+		<meta property="og:image" content="/output/<?php echo($_GET['guid']) ?>-facebookshare.jpg" />
 
 		<script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
 
@@ -66,10 +66,10 @@
 				var obj = {
 					app_id : "373559122839593",
 					method: 'share',
-  					href: "http://staging.weate.ch.stage1.535e.blackmesh.com/wbr/html5/meme/share.php?guid="+gid,
+  					href: "/share.php?guid="+gid,
 					//method : "feed",
-					//link : "http://staging.weate.ch.stage1.535e.blackmesh.com/wbr/html5/meme/share.php?guid="+gid,
-					picture : "http://staging.weate.ch.stage1.535e.blackmesh.com/wbr/html5/meme/output/"+gid+"-facebookshare.jpg",
+					//link : "/share.php?guid="+gid,
+					picture : "/output/"+gid+"-facebookshare.jpg",
 					name : "The God Of Thunder, MEME Maker",
 					description : "The God Of Thunder, MEME Maker",
 					display : "popup"

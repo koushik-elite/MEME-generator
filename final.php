@@ -245,8 +245,8 @@
 					var obj = {
 						app_id : "373559122839593",
 						method : "feed",
-						link : "http://staging.weate.ch.stage1.535e.blackmesh.com/wbr/html5/meme/share.php?guid="+gid,
-						picture : "http://staging.weate.ch.stage1.535e.blackmesh.com/wbr/html5/meme/output/"+gid+"-facebookshare.jpg",
+						link : "/share.php?guid="+gid,
+						picture : "/output/"+gid+"-facebookshare.jpg",
 						name : "The Darkknight Rise MEME generator",
 						description : "The Darkknight Rise MEME generator description",
 						display : "popup"
