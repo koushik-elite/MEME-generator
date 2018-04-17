@@ -1,14 +1,5 @@
 <?php ?>
 <link href='css/jquery.mCustomScrollbar.css' rel='stylesheet' type='text/css'>
-<link href='fonts/thor-font/stylesheet.css' rel='stylesheet' type='text/css'>
-<script src="//use.typekit.net/fwc2vlv.js"></script>
-<script>
-	try {
-		Typekit.load();
-	} catch(e) {
-	}
-</script>
-
 <style>
 	.main-img-mobile {
 		display: none;
@@ -433,10 +424,10 @@
 	}
 	.title {
 		color: #ffffff;
-		font-family: "modi_thorsonregular";
+		font-family: "Oswald", sans-serif;
 		font-size: 29px;
 		font-weight: 300;
-		letter-spacing: 7px;
+		letter-spacing: 10px;
 		line-height: 1;
 		margin-bottom: 18px;
 		text-align: center;

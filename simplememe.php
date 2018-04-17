@@ -22,23 +22,13 @@
 
 		<link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
 
-		<link href='fonts/webkitfont-Misdemeanor/stylesheet.css' rel='stylesheet' type='text/css'>
-
-		<link href='fonts/webkitfont-TragicVision/stylesheet.css' rel='stylesheet' type='text/css'>
-
-		<link href='fonts/webkitfont-Evil/stylesheet.css' rel='stylesheet' type='text/css'>
-
-		<link href='fonts/webkitfont-SKULLTS2/stylesheet.css' rel='stylesheet' type='text/css'>
-
 		<script src="http://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js"></script>
 
 		<title>The God Of Thunder, MEME Maker</title>
 		
-		<link rel="shortcut icon" href="http://staging.weate.ch.stage1.535e.blackmesh.com/wbr/html5/meme/images/hammer-logo.png" type="image/vnd.microsoft.icon" />
+		<link rel="shortcut icon" href="/images/hammer-logo.png" type="image/vnd.microsoft.icon" />
 		
 		<meta property="og:site_name" content="The God Of Thunder, MEME Maker" />
-		
-		<link rel="canonical" href="http://staging.weate.ch.stage1.535e.blackmesh.com/wbr/html5/meme/finalAwd1.php" />
 		
 		<meta name="description" content="Official site" />
 
@@ -61,11 +51,11 @@
 		<script type="text/javascript" src="js/piexif.js"></script>
 		
 		<script type="text/javascript" src="js/ccv.js"></script>
-<script type="text/javascript" src="js/face.js"></script>
+		<script type="text/javascript" src="js/face.js"></script>
 
 
 
-<script type="text/javascript" src="https://code.createjs.com/createjs-2015.05.21.min.js"></script>
+		<script type="text/javascript" src="https://code.createjs.com/createjs-2015.05.21.min.js"></script>
 		
 		<script src="ThresholdFilter.js"></script>
 		<!--<link href='css/meme-style.css?new1' rel='stylesheet' type='text/css'> -->
@@ -1603,7 +1593,7 @@
 		</script>
 		
 		<div class="block footer">
-			<p>&copy; Copyright 2015, Created by WMG Infosys Team</p>
+			<p>&copy; Copyright xxxx, Created by xxxx Team</p>
 		</div>
 
 		<div id="ajaxloader" style="display:none;">
