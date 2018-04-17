@@ -122,7 +122,7 @@
 
 				<div class="block footer">
 					<p>
-						&copy; Copyright 2015, Created by WMG Infosys Team
+						&copy; Copyright 2015, Created by XXX
 					</p>
 				</div>
 

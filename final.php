@@ -762,7 +762,7 @@
 		</script>
 		
 		<div class="block footer">
-			<p>&copy; Copyright 2015, Created by WMG Infosys Team</p>
+			<p>&copy; Copyright 2015, Created by XXX</p>
 		</div>
 
 		<div id="ajaxloader" style="display:none;">
